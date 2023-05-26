@@ -1,0 +1,12 @@
+# Ignore Gradle project-specific cache directory
+.gradle
+gradle
+gradlew
+gradlew.bat
+
+*.class
+.idea
+build
+
+pnpm-lock.yaml
+node_modules
